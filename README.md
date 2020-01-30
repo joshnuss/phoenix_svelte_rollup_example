@@ -2,7 +2,7 @@
 
 Demo of setting up [Svelte](https://svelte.dev) + [Rollup](https://rollupjs.org).
 
-For step by step guide, see [dev.to post](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
+[Step by step guide](https://dev.to/joshnuss/setup-phoenix-with-svelte-rollup-36dk)
 
 ## Development
 
